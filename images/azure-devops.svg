@@ -1,0 +1,15 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="devopsGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0078d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#107c10;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#devopsGradient)"/>
+  <text x="600" y="400" font-size="80" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">
+    AZURE DevOps
+  </text>
+  <text x="600" y="500" font-size="40" fill="rgba(255,255,255,0.8)" text-anchor="middle">
+    CI/CD Pipeline • Project Management • Continuous Integration
+  </text>
+</svg>
